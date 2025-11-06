@@ -1,4 +1,4 @@
-# SoR (TikTok DSA) — Minimal Analysis Toolkit
+# DSA-DTB — UPEC/EMILDAI — Minimal Analysis Toolkit
 
 This folder contains three simple, harmonized Python scripts to explore values, compute daily counts, and plot time series for SoR (TikTok DSA) datasets.
 
